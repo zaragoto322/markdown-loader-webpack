@@ -1,0 +1,18 @@
+{
+  "name": "markdown-loader-webpack",
+  "version": "1.0.1",
+  "description": "It's a markdown loader for webpack using markdown-it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["markdown", "loader", "webpack"],
+  "author": "zaragoto",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^2.1.2",
+    "loader-utils": "^2.0.0",
+    "markdown-it": "^12.1.0",
+    "schema-utils": "^3.0.0"
+  }
+}
